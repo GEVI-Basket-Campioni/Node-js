@@ -4,7 +4,7 @@
 
 2)Inserire 3 nomi nella lista e visualizzare solo quelli di lunghezza maggiore di 3
 
-3)Inserire 3 nomi nella lista e visualizzarli tutti e rimuovere 
+3)Inserire 3 nomi nella lista e rimuovere 
 solo quelli di lunghezza minore di 3 e maggiore di 12. Restituire in output i nomi rimanenti.
 
 4)Inserire 3 nomi nella lista e cercare quello da modificare.
@@ -12,3 +12,6 @@ Restituire in output tutti nomi.
 
 5)Inserire 3 nomi nella lista e cercare quello da cancellare.
 Restituire in output tutti nomi.
+
+6)Decidere quanti nomi inserire nella lista e poi inserirli.
+Dare in output solo i nomi con numero pari di caratteri
