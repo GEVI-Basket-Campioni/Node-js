@@ -1,0 +1,14 @@
+5 funzioni per 5 case di un menu (do-while+switch-case)
+
+1)Inserire 3 nomi nella lista e visualizzarli tutti
+
+2)Inserire 3 nomi nella lista e visualizzare solo quelli di lunghezza maggiore di 3
+
+3)Inserire 3 nomi nella lista e visualizzarli tutti e rimuovere 
+solo quelli di lunghezza minore di 3 e maggiore di 12. Restituire in output i nomi rimanenti.
+
+4)Inserire 3 nomi nella lista e cercare quello da modificare.
+Restituire in output tutti nomi.
+
+5)Inserire 3 nomi nella lista e cercare quello da cancellare.
+Restituire in output tutti nomi.
