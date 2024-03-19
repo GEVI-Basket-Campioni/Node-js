@@ -1,0 +1,3 @@
+Sviluppare un gestionale che faccia il CRUD dei prodotti.
+Ogni prodotto ha i seguenti campi:
+id, nomeProdotto, prezzo, quantita
